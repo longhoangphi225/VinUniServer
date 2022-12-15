@@ -56,5 +56,5 @@ ssh server
 * PyTorch 1.11.0 with Python3.10 (CUDA 11.3)
 * TensorFlow 2.9.0 with Python3.10 (CUDA 11.2)
 
-<img width="778" alt="image" src="https://user-images.githubusercontent.com/22287261/182228503-99648330-4c3a-45f2-8ee3-ef7b484ff3e7.png">
+<img width="778" alt="image" src="https://github.com/longhoangphi225/VinUni-Server-CECS/blob/main/.github/images/Screen%20Shot%202022-12-15%20at%2015.54.24.png">
 
